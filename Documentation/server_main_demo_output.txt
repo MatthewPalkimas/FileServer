@@ -1,0 +1,126 @@
+C:\Users\Matthew\Desktop\ECE470\venv\Scripts\python.exe C:/Users/Matthew/Desktop/ECE470/Project1/server_main.py
+connected to data server 1
+connected to data server 2
+connected to data server 3
+connected to data server 4
+Connected to all data servers.
+Listening on  17777
+Client connected to Server Palk @ 2020-03-05 16:50:02.435276
+C:\Users\Matthew\Desktop\ECE470\Project1\user_database\demo
+User  demo  attempting to login.
+user logged in
+Storing file code
+read 353 bytes
+sending A1, A2 to server 1
+sending B1, B2 to server 2
+sending O1, O2 to server 3
+sending O3, O4 to server 4
+Storing file code
+read 34675359 bytes
+sending A1, A2 to server 1
+sending B1, B2 to server 2
+sending O1, O2 to server 3
+sending O3, O4 to server 4
+Retrieving file code
+Retrieving from servers: 3 1
+receiving data from server 3
+got back file size of 89
+got back file size of 89
+receiving data from server 1
+got back file size of 89
+got back file size of 89
+Retrieving file code
+Retrieving from servers: 3 1
+receiving data from server 3
+got back file size of 8668840
+got back file size of 8668840
+receiving data from server 1
+got back file size of 8668840
+got back file size of 8668840
+Deleting file code
+sending A1, A2 to server 1
+sending B1, B2 to server 2
+sending O1, O2 to server 3
+sending O3, O4 to server 4
+Retrieving file code
+Retrieving from servers: 3 2
+receiving data from server 3
+got back file size of 89
+got back file size of 89
+receiving data from server 2
+got back file size of 89
+got back file size of 89
+Retrieving file code
+Retrieving from servers: 3 4
+receiving data from server 3
+got back file size of 89
+got back file size of 89
+receiving data from server 4
+got back file size of 89
+got back file size of 89
+Retrieving file code
+Retrieving from servers: 1 3
+receiving data from server 1
+got back file size of 89
+got back file size of 89
+receiving data from server 3
+got back file size of 89
+got back file size of 89
+Retrieving file code
+Retrieving from servers: 2 3
+receiving data from server 2
+got back file size of 89
+got back file size of 89
+receiving data from server 3
+got back file size of 89
+got back file size of 89
+Retrieving file code
+Retrieving from servers: 2 3
+receiving data from server 2
+got back file size of 89
+got back file size of 89
+receiving data from server 3
+got back file size of 89
+got back file size of 89
+Retrieving file code
+Retrieving from servers: 2 3
+receiving data from server 2
+got back file size of 89
+got back file size of 89
+receiving data from server 3
+got back file size of 89
+got back file size of 89
+Retrieving file code
+Retrieving from servers: 3 4
+receiving data from server 3
+got back file size of 89
+got back file size of 89
+receiving data from server 4
+got back file size of 89
+got back file size of 89
+Retrieving file code
+Retrieving from servers: 1 3
+receiving data from server 1
+got back file size of 89
+got back file size of 89
+receiving data from server 3
+got back file size of 89
+got back file size of 89
+Retrieving file code
+Retrieving from servers: 2 4
+receiving data from server 2
+got back file size of 89
+got back file size of 89
+receiving data from server 4
+got back file size of 89
+got back file size of 89
+Retrieving file code
+Deleting file code
+sending A1, A2 to server 1
+sending B1, B2 to server 2
+sending O1, O2 to server 3
+sending O3, O4 to server 4
+Logging out now
+User  mp  attempting to login.
+user logged in
+Logging out now

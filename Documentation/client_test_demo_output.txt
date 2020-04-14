@@ -1,0 +1,371 @@
+C:\Users\Matthew\Desktop\ECE470\venv\Scripts\python.exe C:/Users/Matthew/Desktop/ECE470/Project1/client_test.py
+---------------------------------------------------------------------------
+| Hello client, you have connected to Server Palk. Note: this will change |
+|  All files need to be inside a directory inside the c_files directory!  |
+---------------------------------------------------------------------------
+Username: demo
+Password: password
+Username does not exist in database!
+Do you want to create an account (YES or NO): YES
+Enter Desired Username: demo
+Enter password: password
+Confirm password: password
+Welcome demo! You are a legend...
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ INF
+sent "INF" to the server
+Server sent
+No files in database
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ STR
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "STR
+yeet.txt
+test
+353
+
+" to the server
+now sending binary file!
+received "File yeet.txt successfully created and written to" from the server
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ STR
+Enter the file name: f.pdf
+Enter the file path: test
+sent "STR
+f.pdf
+test
+34675359
+
+" to the server
+now sending binary file!
+received "File f.pdf successfully created and written to" from the server
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ INF
+sent "INF" to the server
+Server sent
+\demo\test
+\demo\test\f.pdf
+\demo\test\yeet.txt
+
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ RTV
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "RTV
+yeet.txt
+test
+
+" to the server
+retrieving file code of size 353
+read 353 bytes
+Successfully retrieved file yeet.txt from the file system
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ RTV
+Enter the file name: f.pdf
+Enter the file path: test
+sent "RTV
+f.pdf
+test
+
+" to the server
+retrieving file code of size 34675359
+read 34675359 bytes
+Successfully retrieved file f.pdf from the file system
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ DEL
+Enter the file name: f.pdf
+Enter the file path: test
+sent "DEL
+f.pdf
+test
+
+" to the server
+received "Successfully removed file f.pdf from the file system" from the server
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ RTV
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "RTV
+yeet.txt
+test
+
+" to the server
+retrieving file code of size 353
+read 353 bytes
+Successfully retrieved file yeet.txt from the file system
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ RTV
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "RTV
+yeet.txt
+test
+
+" to the server
+retrieving file code of size 353
+read 353 bytes
+Successfully retrieved file yeet.txt from the file system
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ RTV
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "RTV
+yeet.txt
+test
+
+" to the server
+retrieving file code of size 353
+read 353 bytes
+Successfully retrieved file yeet.txt from the file system
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ RTV
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "RTV
+yeet.txt
+test
+
+" to the server
+retrieving file code of size 353
+read 353 bytes
+Successfully retrieved file yeet.txt from the file system
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ RTV
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "RTV
+yeet.txt
+test
+
+" to the server
+retrieving file code of size 353
+read 353 bytes
+Successfully retrieved file yeet.txt from the file system
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ RTV
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "RTV
+yeet.txt
+test
+
+" to the server
+retrieving file code of size 353
+read 353 bytes
+Successfully retrieved file yeet.txt from the file system
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ RTV
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "RTV
+yeet.txt
+test
+
+" to the server
+retrieving file code of size 353
+read 353 bytes
+Successfully retrieved file yeet.txt from the file system
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ RTV
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "RTV
+yeet.txt
+test
+
+" to the server
+retrieving file code of size 353
+read 353 bytes
+RSuccessfully retrieved file yeet.txt from the file system
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ TV
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "TV
+yeet.txt
+test
+
+" to the server
+received "ERROR Opcode was invalid!" from the server
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ RTV
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "RTV
+yeet.txt
+test
+
+" to the server
+retrieving file code of size 353
+read 353 bytes
+Successfully retrieved file yeet.txt from the file system
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ incorrect_opcode
+Enter the file name: f
+Enter the file path: f
+sent "incorrect_opcode
+f
+f
+
+" to the server
+received "ERROR Opcode was invalid!" from the server
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ RTV
+Enter the file name: non-existant_file.txt
+Enter the file path: test
+sent "RTV
+non-existant_file.txt
+test
+
+" to the server
+got back:
+ ERROR the file name you gave did not exist in the file system!
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ DEL
+Enter the file name: yeet.txt
+Enter the file path: test
+sent "DEL
+yeet.txt
+test
+
+" to the server
+received "Successfully removed file yeet.txt from the file system" from the server
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ INF
+sent "INF" to the server
+Server sent
+\demo\test
+
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ LGO
+---------------------------------------------------------------------------
+| Hello client, you have connected to Server Palk. Note: this will change |
+|  All files need to be inside a directory inside the c_files directory!  |
+---------------------------------------------------------------------------
+Username: mp
+Password: password
+Welcome mp! You are a legend...
+Enter the operation you want to send to the server from the list below
+  STR - Store a file on the server
+  RTV - Retrieve a file from the server
+  DEL - Delete a file from the server
+  INF - See which files you have stored on the server
+  LGO - Logout from the server
+  ~ LGO
+---------------------------------------------------------------------------
+| Hello client, you have connected to Server Palk. Note: this will change |
+|  All files need to be inside a directory inside the c_files directory!  |
+---------------------------------------------------------------------------
+Username: 
+Process finished with exit code -1

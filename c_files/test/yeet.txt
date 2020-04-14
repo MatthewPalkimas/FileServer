@@ -1,0 +1,30 @@
+N
+O
+R
+I
+R
+N
+R
+O
+O
+O
+NOMINAL
+ORDINAL
+INTERVAL
+RATIO
+
+1. inferential
+sample = psy 292 students
+population = all college students
+2. netflix hrs RATIO
+3. histogram
+	ratio scale is histogram
+	x axis = hours watched
+	y axis = frequency
+4. x1 = 8
+	x2 = 6
+	sum from 1 to 6 = 21
+	mean: 21 / 6 = 3.5
+	median: 3
+	mode: all of them
+6. 
